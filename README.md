@@ -52,18 +52,3 @@ of physics homework that installs as a game.
 <img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
-
-</div>
-
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
-
-Every graphic here is generated in this repo, not pulled from someone else's<br>
-server. `ascii.svg` is an ASCII portrait of me (hand-drawn, turned into a<br>
-self-typing SVG by [`scripts/make_ascii_svg.py`](scripts/make_ascii_svg.py)); the stat graphics and these
-weird section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
-straight from GitHub's GraphQL API once a day, committing only what changed.
-
-The portrait animates once and stops — SMIL inside the SVG, because GitHub
-strips scripts from READMEs. The typeface is [JetBrains Mono](scripts/fonts),
-subset to just the characters each graphic draws and inlined as base64 so the
-grid geometry holds on any machine.
