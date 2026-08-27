@@ -30,9 +30,9 @@ I'm not looking. I finish things, mostly outside the tracker.
 Local-first AI newsletter curator. Reads your feed, drafts summaries, keeps<br>
 your reading history on disk. No cloud, no sub.
 
-**[willow-project-tracker](https://github.com/Runtime-3rr0r/willow-project-tracker)** &nbsp;·&nbsp; <samp>typescript, electron</samp><br>
-Backroom PCB — the workspace I run my hardware builds out of. Kanban,<br>
-gerber files, BOM and assembly tracking, a shared parts inventory.
+**[willow](https://github.com/Runtime-3rr0r/willow)** &nbsp;·&nbsp; <samp>typescript, electron</samp><br>
+The workspace I run my hardware projects out of. Kanban, gerber files,<br>
+BOM and assembly tracking, a parts inventory, and an order planner.
 
 **[7983S_Worlds](https://github.com/Runtime-3rr0r/7983S_Worlds)** &nbsp;·&nbsp; <samp>c++</samp><br>
 The VEX Team 7983S competition code. Autonomous routines, control loops,<br>
