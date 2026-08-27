@@ -58,8 +58,8 @@ of physics homework that installs as a game.
 <img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
 Every graphic here is generated in this repo, not pulled from someone else's<br>
-server. `ascii.svg` is me pushed through a character ramp by<br>
-[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and these
+server. `ascii.svg` is an ASCII portrait of me (hand-drawn, turned into a<br>
+self-typing SVG by [`scripts/make_ascii_svg.py`](scripts/make_ascii_svg.py)); the stat graphics and these
 weird section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
 straight from GitHub's GraphQL API once a day, committing only what changed.
 
