@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="96" viewBox="0 0 460 96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <style>.a{fill:#8c959f}</style>
+  <text xml:space="preserve" x="14" y="34" class="a" font-size="13">portrait goes here</text>
+  <text xml:space="preserve" x="14" y="56" class="a" font-size="13">drop a headshot, then run:</text>
+  <text xml:space="preserve" x="14" y="78" class="a" font-size="13">python scripts/make_portrait.py photo.png</text>
+</svg>
